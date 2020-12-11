@@ -1,0 +1,67 @@
+* {
+    font-family: 'Space Mono', monospace;
+
+}
+h3 {
+    position:absolute;
+    top: 40px;
+    left: 77px;
+    width: 193px;
+    height: 25px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+}
+
+img {
+    position: absolute;
+    width: 540px;
+    height: 415px;
+    top: 265px;
+    left: 77px;
+}
+h1 {
+    width: 576px;
+    height: 190px;
+    position: absolute;
+    top: 220px;
+    left: 790px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+}
+h2 {
+    position: absolute;
+    width: 390px;
+    height: 108px;
+    top: 450px;
+    left: 790px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+}
+.button {
+    position: absolute;
+    top: 620px;
+    left: 789px;
+    width: 200px;
+    height: 60px;
+    background-color: black;
+}
+p {
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 4px;
+}
